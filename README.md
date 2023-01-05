@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Fauzan Al. Sa.</h1>
+<h1 align="center">Hi 👋, Fauzan Almas Saepullah.</h1>
 <h3 align="center">A normal college student at Telkom University</h3>
 
 - 🌱 I’m currently learning **Godot, Character Design**
