@@ -13,7 +13,7 @@
  
  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsafau10" alt="hanrocky halim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsafau10&theme=onedark" alt="Fauzan AS" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
