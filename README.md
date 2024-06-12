@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Godot, Character Design**
 
-- ⚡ Fun fact **I'm beginning to think that my sanity will gone soon**
+- ⚡ Fun fact **I'm beginning to think that my sanity will be gone soon**
 
 <div align="center" >
  
